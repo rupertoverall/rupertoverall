@@ -5,6 +5,6 @@ Several open source software projects and the analysis code for some of my publi
 I am the author of the R package <a href="https://rupertoverall.net/Rtrack/">Rtrack</a> (on <a href="https://CRAN.R-project.org/package=Rtrack">CRAN</a>; development version/source <a href="https://github.com/rupertoverall/Rtrack">here</a>).
 I am also the author of the R package <a href="https://rupertoverall.net/ColonyTrack/">ColonyTrack</a> (source <a href="https://github.com/rupertoverall/ColonyTrack">here</a>).
 
-I maintain several web projects including <a href="https://rupertoverall.net/covidminer/">COVIDminer</a> and <a href="https://rupertoverall.net/neurogenesisminer/">NeurogenesisMiner</a> (text mining resources to aid curation of molecular pathway maps) as well as the <a href="http://mango.adult-neurogenesis.de/">Mammalian Adult Neurogenesis Gene Ontology</a>.
+I maintain several web projects including <a href="https://rupertoverall.net/covidminer/">COVIDminer</a> and <a href="https://rupertoverall.net/neurogenesis-miner/">NeurogenesisMiner</a> (text mining resources to aid curation of molecular pathway maps) as well as the <a href="http://mango.adult-neurogenesis.de/">Mammalian Adult Neurogenesis Gene Ontology</a>.
 
 I can be found at <a href="https://twitter.com/rupertoverall">Twitter</a> and <a rel="me" href="https://qoto.org/@rupertoverall">Mastodon</a>.
