@@ -7,4 +7,4 @@ I am also the author of the R package <a href="https://rupertoverall.net/ColonyT
 
 I maintain several web projects including <a href="https://rupertoverall.net/covidminer/">COVIDminer</a> and <a href="https://rupertoverall.net/neurogenesis-miner/">NeurogenesisMiner</a> (text mining resources to aid curation of molecular pathway maps) as well as the <a href="http://mango.adult-neurogenesis.de/">Mammalian Adult Neurogenesis Gene Ontology</a>.
 
-I can be found at <a href="https://twitter.com/rupertoverall">Twitter</a> and <a rel="me" href="https://qoto.org/@rupertoverall">Mastodon</a>.
+I can be found at <a href="https://twitter.com/rupertoverall">Twitter</a> and <a rel="me" href="https://qoto.org/@rupertoverall" rel="me" >Mastodon</a>.
