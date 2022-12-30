@@ -8,4 +8,4 @@ I am also the author of the R package <a href="https://rupertoverall.net/ColonyT
 I maintain several web projects including <a href="https://rupertoverall.net/covidminer/">COVIDminer</a> and <a href="https://rupertoverall.net/neurogenesis-miner/">NeurogenesisMiner</a> (text mining resources to aid curation of molecular pathway maps) as well as the <a href="http://mango.adult-neurogenesis.de/">Mammalian Adult Neurogenesis Gene Ontology</a>.
 
 I can be found on Mastodon at <a rel="me" href="https://fosstodon.org/@rupertoverall" rel="me" >[https://fosstodon.org/@rupertoverall](https://fosstodon.org/@rupertoverall)</a>.
-<link rel="me" href="https://fosstodon.org/@rupertoverall">
+<span rel="me" href="https://fosstodon.org/@rupertoverall" style="visibility:hidden"></span>
